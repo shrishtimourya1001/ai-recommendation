@@ -1,0 +1,6 @@
+{
+  "name": "DirectFarm - AI Demand Matching",
+  "description": "AI-powered aggregation of fragmented farmer supply with intelligent buyer demand-based cluster recommendations for AgriTech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
